@@ -1,0 +1,6 @@
+
+shellext.virustotal: do not cache no results found
+strings offsets not x64 safe, offset calc not x64 aware..
+
+pe rich header?
+

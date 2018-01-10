@@ -1,0 +1,51 @@
+
+Scan Date:   2016-01-21 12:32:43
+Hash:        e0f7dd83fade95b56f90b1d48ba807fe
+Detections:  6/53
+---------------------------------------------
+K7GW                Riskware ( 0040eff71 )
+K7AntiVirus         Riskware ( 0040eff71 )
+Avast               Win32:Malware-gen
+VIPRE               Trojan.Win32.Generic!BT
+McAfee-GW-Edition   BehavesLike.Win32.Dropper.vc
+McAfee              Artemis!E0F7DD83FADE
+
+
+fakedns:
+x CAT-QuickHeal       (Suspicious) - DNAScan
+x Avira               TR/Dropper.Gen
+x Ikarus              Trojan.Dropper
+x Qihoo-360           HEUR/QVM03.0.Malware.Gen
+
+x find dll: Symantec            WS.Reputation.1
+x gdiprocs: Symantec            WS.Reputation.1
+x loadlib:  Symantec            WS.Reputation.1
+x scktool:  Symantec            WS.Reputation.1
+
+idcdumpfix
+x Avira               TR/VB.Downloader.Gen
+x Qihoo-360           Win32/Trojan.Downloader.8a8
+
+kanl:
+x TrendMicro-HouseCallPAK_Generic.001
+x TrendMicro          PAK_Generic.001
+
+
+virustotal:
+x CAT-QuickHeal       (Suspicious) - DNAScan
+x F-Prot              W32/VBTrojan.19F1!Maximus
+x Sophos              Mal/VB-F
+x Cyren               W32/VBTrojan.19F1!Maximus
+x VBA32               Trojan.VB.gen
+x Qihoo-360           HEUR/QVM03.0.Malware.Gen
+
+
+hi you are giving false positive for my product
+it is all open source:
+
+http://sandsprite.com/iDef/MAP/
+
+
+
+
+http://www.techsupportalert.com/content/how-report-malware-or-false-positives-multiple-antivirus-vendors.htm#Trend%20Micro
